@@ -1,10 +1,8 @@
 ## SISHMA (SMART INNOVATIVE SOIL HEALTH MONITORING AID)
 
 * An IoT-based farming app for Indian farmers built using React Native, funded by the Department of Science and Technology - Device and Development Programme (DST-DDP), Ministry of Science and Technology, Government of India
-<br/>
 * Farmers register and log in to input field data - NPK, moisture, pH and receive personalized recommendations from
 field officers about crop type, suitable fertilizer combinations, organic manure, and bio-fertilizers.
-<br/>
 * Supports multilingual functionality, users can choose among English, Hindi and Tamil as languages
 <br/>
 Demo:
